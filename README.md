@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning c++ and web development
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me shivangipachauri89@gmail.com
-- 
-https://linktr.ee/SHIVANGI_PACHAURI
+- https://linktr.ee/SHIVANGI_PACHAURI
 
 
 <!---
